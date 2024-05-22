@@ -17,7 +17,7 @@
 
 ​	mac：直接将 app 拖入 ‘’Macintosh HD>应用程序‘’文件夹中
 
-​	<img src="/Users/pl/Library/Application Support/typora-user-images/image-20240522235529369.png" alt="image-20240522235529369" style="zoom:50%;" />
+​	<img src="https://github.com/hurrypp/HarmonyProject/blob/main/Attachment_/image-20240522235529369.png?raw=true" alt="image-20240522235529369" style="zoom:50%;" />
 
 ​	windows：安装包双击安装，自定义安装路径，出现配置选项建议全选。
 
